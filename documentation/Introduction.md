@@ -1,2 +1,3 @@
 # Introduction
 
+> Wio Link is an ESP8266 SoC based open-source Wi-Fi development board and associated platform to create IoT applications by virtualizing plug-n-play modules to RESTful APIs with mobile Apps. Wio Link is designed to simplify your IoT development, aims to make it easy to develop Internet of Things products and services. Using the Wio Link, developers are able to build IoT applications with no hardware programming, no breadboard, no jumper wires, and no soldering. Users can build IoT applications in three steps in about five minutes. [Homepage](http://www.seeedstudio.com/wiki/Wio_Link)
